@@ -1,0 +1,8 @@
+[
+  {
+    "name": "John", "sales_budget": 2000, "contact_method": "bla"
+  },
+  {
+    "name": "Mike", "sales_budget": 1000, "contact_method": "blabla"
+  }
+]
